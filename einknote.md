@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: EinkNote Privacy Polic
 ---
 
-# EinkNote 개인정보 처리방침 (Privacy Policy)
+# EinkNote 개인정보 처리방침 
 
 EinkNote 서비스는 사용자의 개인정보를 소중히 여기며, 개인정보 보호 관련 법령 및 Google API 서비스 사용자 데이터 정책(Google API Services User Data Policy)을 준수합니다. 본 방침은 서비스가 Google OAuth를 통해 어떤 정보를 수집하고, 어떻게 사용 및 보호하는지 설명합니다.
 
