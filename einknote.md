@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EinkNote Privacy Polic
+title: EinkNote
 ---
 
 # EinkNote 개인정보 처리방침 
@@ -58,6 +58,6 @@ EinkNote 서비스는 Google OAuth 인증을 통해 사용자의 명시적 동�
 ## 6. 개인정보 보호책임자 및 문의처
 
 개인정보 처리방침과 관련된 문의, 의견, 데이터 삭제 요청은 아래 연락처로 문의해 주시기 바랍니다.
-
+- **소스콛:** <https://github.com/soorichu/EinkNote>
 - **개발자:** 정수영
 - **담당자 이메일:** soorichu@gmail.com
