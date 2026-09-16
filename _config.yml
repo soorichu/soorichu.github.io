@@ -2,7 +2,7 @@
 title:               'Soori Home'
 tagline:             ''
 description:         ''
-url:                 'https://soorichu.github.io/'
+url:                 'https://soorichu.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
