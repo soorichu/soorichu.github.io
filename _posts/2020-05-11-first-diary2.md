@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diary
+title: First Commit
 ---
 
 # Hello
