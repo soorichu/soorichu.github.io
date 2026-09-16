@@ -1,8 +1,11 @@
 ---
 layout: post
-title: First Commit
+title: EinkVoca
 ---
 
-# Hello
-
-시작_
+# EinkVoca
+**Turn your E-reader into a dedicated vocabulary flashcard tool.**
+- Study vocabulary comfortably anytime, anywhere on a distraction-free E-ink screen.
+- No eye strain: Minimal animations designed for smooth, flicker-free flashcard flipping
+- Easy deck creation: Simply import local CSV files to build your custom word lists
+- No sign-up required: Use immediately with local storage and zero account setup
