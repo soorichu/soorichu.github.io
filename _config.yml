@@ -1,8 +1,8 @@
 # Setup
 title:               'Soori Home'
-tagline:             '안녕_'
-description:         '매일 아침 일어나 다시 잠에 드는 삶을 꿈꾼다'
-url:                 'https://soorichu.github.io'
+tagline:             ''
+description:         ''
+url:                 'https://soorichu.github.io/'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
