@@ -2,8 +2,8 @@
 title:               'Soori Home'
 tagline:             ''
 description:         'My first Eink Note'
-url:                 ''
-baseurl:             'https://www.einknote.cloud'
+baseurl:                 ''
+url:             'https://www.einknote.cloud'
 paginate:            5
 permalink:           pretty
 
