@@ -10,7 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              Soori
-  url:               ''
+  baseurl:               ""
+  url: "https://einknote.cloud"
   email:             soorichu@gmail.com
 
 # Gems
