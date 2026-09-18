@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Soori
-  baseurl:           ""
+  url:               ''
   email:             soorichu@gmail.com
 
 # Gems
