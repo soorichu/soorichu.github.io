@@ -27,6 +27,7 @@ The App is built to eliminate distractions and minimize screen flicker:
 * **No Sign-up / No Login:** EinkNote does not require user registration, account creation, or external profile logins.
 * **User Ownership:** All content, notes, and plain text files created within the App belong entirely to you. Your text is stored locally on your device or in your personal Google Drive account.
 * **No Remote Storage:** We do not operate proprietary backend servers to collect, retain, or store your text data.
+* **Useage for Google Oauth** : [https://youtu.be/1gn88Piog5k](https://youtu.be/1gn88Piog5k）
 
 
 ## 3. Google API Integration & Permissions
